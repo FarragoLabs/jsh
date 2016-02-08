@@ -16,4 +16,4 @@ hs_err_pid*
 *.idea
 target
 *.iml
-jsh-core/jsh-core.iml
+jsh-core/*.iml
