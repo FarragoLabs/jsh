@@ -13,7 +13,7 @@
 hs_err_pid*
 
 # Created by .ignore support plugin (hsz.mobi)
-.idea
+*.idea
 target
 *.iml
 jsh-core/jsh-core.iml
